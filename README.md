@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+OutFit Explorer is a web application designed to promote healthy living by encouraging individuals to explore outdoor activities. Our platform aims to inspire users to embrace an active lifestyle through outdoor recreation. Whether you're a seasoned outdoor enthusiast or just starting your fitness journey, OutFit Explorer provides the tools and resources to help you make the most of your outdoor adventures.
+
+With OutFit Explorer's intuitive interface, you can easily locate nearby parks, complete with user reviews to help you choose the perfect spot. Need some inspiration for exercises? OutFit Explorer offers exercise suggestions that you can tailor to your fitness level and interests.
+
+But that's not all. OutFit Explorer goes beyond just finding the right park and exercises. With our integrated weather forecast feature, you can plan your outdoor activities with confidence, knowing what to expect from Mother Nature.
+
+And here's where it gets even better. OutFit Explorer rewards you for your outdoor adventures through our innovative GPS tracking system. By verifying your location at the park, you can earn rewards and incentives to keep you motivated and engaged in your healthy lifestyle journey.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
